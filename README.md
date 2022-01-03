@@ -1,5 +1,7 @@
-## Olá, Mundo! Eu sou o Huesller  👊🤟
-
+<h1 align="left">Olá, Mundo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> eu sou o Huesller Machado - dev .NET C#  </h1>
+<div align="center">
+   <img height="380em" src="https://media.giphy.com/media/XTSgoleoN5WuYB9VyT/giphy.gif"/>
+</div>
 - 🔍 Atualmente em busca de oportunidades...
 - 🖥️ Estudando para se tornar Dev Back-End...
 - 🖥️ Focando em aprender .NET e C# ...
