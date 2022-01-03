@@ -2,7 +2,10 @@
 <div align="center">
    <img height="380em" src="https://media.giphy.com/media/qKPXy0ypmujq6g3Eob/giphy.gif"/>
 </div>
-
+ <div align="center">
+         <a href="https://www.linkedin.com/in/huesllermachado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
+  
 ##
 
 - 🔍 Atualmente em busca de oportunidades...
@@ -24,8 +27,5 @@
   
   ##
   
-  <div>
-         <a href="https://www.linkedin.com/in/huesllermachado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
-  
+ 
   ![Snake animation](https://github.com/huesller/huesller/blob/output/github-contribution-grid-snake.svg)
