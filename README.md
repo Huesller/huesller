@@ -1,7 +1,5 @@
 <h1 align="left">Olá, Mundo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> eu sou o Huesller Machado - dev .NET C#  </h1>
-<div align="center">
-   <img height="380em" src="https://media.giphy.com/media/qKPXy0ypmujq6g3Eob/giphy.gif"/>
-</div>
+
  <div align="center">
          <a href="https://www.linkedin.com/in/huesllermachado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
